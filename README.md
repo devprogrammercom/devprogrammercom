@@ -1,11 +1,11 @@
 ## Welcome to the /dev/programmer GitHub Page
 
-Hello, I'm Adam! You can check out my hobby blog at [devprogrammer.com](https://devprogrammer.com).
+Hello, I'm Adam! Check out my hobby blog at [devprogrammer.com](https://devprogrammer.com).
 
-I enjoy writing and have published several articles both individually and as part of the devprogrammer project. Often, I develop code for my projects and experiments, which I share publicly on this GitHub page.
+I love writing and have published several articles independently and as part of the devprogrammer project. Sometimes, when I write code to tinker with, it ends up as a public repository on my GitHub.
 
-I also dabble in the social media world to share the knowledge in bite-size chunks. Links on the left if you are curious 🤓
+I also share knowledge in bite-sized chunks on social media – check the links on the left if you're curious 🤓
 
-Additionally, I've authored articles on various platforms. You can find all my writings compiled [here](https://devprogrammercom.github.io/).
+Additionally, I've authored articles on various platforms, all compiled [here](https://devprogrammercom.github.io/).
 
 Thanks for stopping by 👋
